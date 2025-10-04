@@ -16,8 +16,6 @@ import java.util.Scanner;
  * @author John Hartmann
  * @version 1.0
  * @since 2025
- * Student ID: 115764215
- * Recitation: R30
  */
 public class DepartmentStore {
     
@@ -174,4 +172,5 @@ public class DepartmentStore {
         
         scanner.close();
     }
+
 }
